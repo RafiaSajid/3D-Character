@@ -8,6 +8,8 @@
 
 A low-poly 3D character with idle(breathing),jump, and run animations.
 
+*Made in Blender*
+
 <img width="1157" height="772" alt="image" src="https://github.com/user-attachments/assets/dd2cf030-a5d4-46d5-8996-1ca097308104" />
 
 
