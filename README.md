@@ -33,6 +33,6 @@ It was made for a Unreal game project (Eat Right Run).
 
 The blend file consist of a duplicate character with armature (no animations).
 <img width="1152" height="775" alt="image" src="https://github.com/user-attachments/assets/b0341a93-372c-4c5c-b523-f75836ce146b" />
-### Contact if needed.
+
 
 
